@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
-<a href="https://discord.gg/7b45db" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7b45db" height="30" width="40" /></a>
+<a href="https://discord.gg/ZpmRGE82Cm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7b45db" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages we use:</h3>
