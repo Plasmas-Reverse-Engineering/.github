@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plasmas-reverse-engineering&label=Hits&color=7b45db&style=flat" alt="plasmas-reverse-engineering" /> </p>
 
-- 📫 Our support email is **support@floofyplasma.com**
+- 📫 Our support email is **admin@floofyplasma.com**
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
